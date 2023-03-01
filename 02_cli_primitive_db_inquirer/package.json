@@ -1,0 +1,16 @@
+{
+  "name": "01_cli_primitive_db_inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
